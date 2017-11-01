@@ -1,8 +1,11 @@
 import processing.serial.*;
 
-Serial MEGAInterface;  // The serial port
-Serial MEGABlindsLights;  // The serial port
-Serial MEGATelevisionAudio;  // The serial port
+// The serial port
+Serial MEGAInterface;
+// The serial port
+Serial MEGABlindsLights;
+// The serial port
+Serial MEGATelevisionAudio;
 
 void setup() {
   // List all the available serial ports
