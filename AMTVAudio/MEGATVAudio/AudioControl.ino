@@ -28,14 +28,8 @@ void audioControl() {
         checkPlaying();
         musicPlayer.startPlayingFile("Sinatra.mp3");
         break;
+
     }
   }
-}
-
-void checkPlaying() {
-  if (musicPlayer.playingMusic) {
-    musicPlayer.stopPlaying();
-  }
-//  change = false;
 }
 
