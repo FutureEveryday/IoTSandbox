@@ -1,0 +1,14 @@
+To switch between video output (i.e. either use the 3.5 inch touchscreen or the HDMI out port) do the following:
+
+
+When in LCD35 touchscreen output mode
+1. Open terminal
+2. Run command: cd Elecrow-LCD35
+3. Run command: sudo ./Elecrow-LCD35 hdmi
+4. Press "y" for changes to take effect (Pi will reboot), or "n" to stay in current video output mode
+
+When in HDMI output mode
+1. Open terminal
+2. Run command: cd Elecrow-LCD35
+3. Run command: sudo ./Elecrow-LCD35
+4. Press "y" for changes to take effect (Pi will reboot), or "n" to stay in current video output mode
