@@ -1,3 +1,0 @@
-# IoTSandbox
-
-start of documentation
